@@ -4,7 +4,7 @@
 
 I'm an aspiring PowerApps developer with a strong passion for creating solutions that enhance user experience and streamline business processes. With many years of experience in administration, I've witnessed firsthand the transformative power of automation in improving daily lives, enhancing business operations, and driving efficiency. This realization fueled my desire to transition into the tech industry, where I am now focused on harnessing the potential of low-code/no-code platforms.
 
-My recent certification in PL-900 has provided me with a solid foundation in Power Platform, and I am currently preparing for the PL-400 certification to deepen my expertise. I'm committed to building projects that showcase my skills in PowerApps and other Microsoft technologies, and I'm eager to share my journey with others in the tech community.
+My recent certification in PL-900 has provided me with a solid foundation in Power Platform, and I am currently preparing for the PL-400 certification to deepen my expertise. I'm committed to building projects that showcase my skills in PowerPlatform and other Microsoft technologies, and I'm eager to share my journey with others in the tech community.
 
 ## About Me:
 - **😄 Expertise:**  Low Code/No Code Developer | PowerPlatform Enthusiast
