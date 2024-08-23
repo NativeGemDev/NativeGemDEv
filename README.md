@@ -1,4 +1,4 @@
-![Banner](https://files.oaiusercontent.com/file-Vwy57vunijjqaQhbd98aWlPf?se=2024-08-23T02%3A03%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D635246bc-af3e-426f-a089-8f11eebe0fc0.webp&sig=0t2lCD8byI41vBfsrIeEFU2CFUioM8cZKZAIOLWMdIA%3D)  <!-- Replace with your own banner image -->
+![Banner](https://github.com/NativeGemDev/NativeGemDEv/blob/main/4y55hoj5.png?raw=true)  <!-- Replace with your own banner image -->
 
 # Hi there, I'm Mandy Madril 👋
 
